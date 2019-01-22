@@ -26,11 +26,11 @@ Une coloration syntaxique se compose de plusieurs partie:
 avec coloration
 ===============
 
-	javascript
+```javascript
 <script type="text/javascript">
     alert("Julien Cassanra Vannessa");
 </script>
-
+```
 sans coloration
 ===============
 
