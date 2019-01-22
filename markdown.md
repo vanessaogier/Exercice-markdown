@@ -1,4 +1,4 @@
-#Memo :
+# Memo :
 
 ## La syntaxe Markdown
 
@@ -14,7 +14,7 @@ ici. À chaque fois, je vous indiquerai l'équivalent HTML de la notation Markdo
 
 >Il y a différents niveaux de titres : #Titre de niveau 1 - ##Titre de niveau 2 - ###Titre de niveau 3.
 
-###les listes :
+### les listes :
 
 La liste ordonnée se crée avec des chiffres :
 1. Ordonnée
