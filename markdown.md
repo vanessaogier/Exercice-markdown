@@ -23,7 +23,17 @@ Une coloration syntaxique se compose de plusieurs partie:
 (le nom: alert("Julien Cassanra Vannessa");
 
 
+avec coloration
+===============
+
+	javascript
 <script type="text/javascript">
     alert("Julien Cassanra Vannessa");
 </script>
 
+sans coloration
+===============
+
+<script type="text/javascript">
+    alert("Julien Cassanra Vannessa");
+</script>
