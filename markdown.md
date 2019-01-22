@@ -25,3 +25,42 @@ Les principaux moteurs de cette évolution sont les suivants :
    * La guerre des talents – les entreprises peinent de plus en plus à recruter des collaborateurs talentueux possédant des compétences très recherchées. Un environnement de travail attractif devient donc un atout important pour recruter, fidéliser et motiver les talents.
    * Le changement de nature du travail – l’essor de l’économie à la tâche se traduit par le développement d’une approche par projet réunissant ponctuellement différents intervenants. Le travail s’effectue ainsi dans un écosystème dynamique non contraint par les limites d’une entité juridique. L’évolution des attentes des collaborateurs – Le numérique offre à certains professionnels la possibilité de travailler partout, entraînant une évolution de la fonction du bureau qui devient avant tout un lieu où rencontrer des clients et collègues et travailler en collaboration. Les salariés cherchent un environnement de travail confortable et stimulant offrant des installations de qualité, à l’image de celles proposées par les espaces de coworking en pleine multiplication.
 
+# Memo :
+
+## La syntaxe Markdown
+
+Quand vous écrivez en Markdown, vous utilisez des notations raccourcies qui sont remplacées par
+
+les balises HTML correspondantes. Nous allons découvrir la plupart de ces notations raccourcies
+
+ici. À chaque fois, je vous indiquerai l'équivalent HTML de la notation Markdown. 
+
+>Commençons par le plus simple, vous pouvez facilement créer des paragraphes en laissant des lignes vides.
+
+>Pour la mise en valeur, autrement dit l'emphase, il vous suffit de mettre des étoiles pour mettre un mot en **gras** et entourer le mot d'underscore pour le mettre en _italique_.
+
+>Il y a différents niveaux de titres : # Titre de niveau 1 - ## Titre de niveau 2 - ### Titre de niveau 3.
+
+### les listes :
+
+La liste ordonnée se crée avec des chiffres :
+1. Ordonnée
+2. HTML
+3. CSS
+4. Javascript
+
+La liste désordonnée se crée avec des étoiles * :
+* Désordonnée
+* Photoshop
+* Indesign
+* Illustrator
+
+>Elles peuvent aussi s'imbriquer:
+
+* Une puce !
+* Une autre puce !
+	* Encore une puce !
+	* Et encore une autre !	
+
+>Pour créer une citation, vous devez précéder les lignes citées d'un ">".Voici une citation.
+
