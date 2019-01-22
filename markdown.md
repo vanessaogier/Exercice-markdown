@@ -34,8 +34,7 @@ avec coloration
 sans coloration
 ===============
 
-´´´
+	javascript
 <script type="text/javascript">
     alert("Julien Cassanra Vannessa");
 </script>
-´´´
