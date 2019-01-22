@@ -12,7 +12,7 @@ ici. À chaque fois, je vous indiquerai l'équivalent HTML de la notation Markdo
 
 >Pour la mise en valeur, autrement dit l'emphase, il vous suffit de mettre des étoiles pour mettre un mot en **gras** et entourer le mot d'underscore pour le mettre en _italique_.
 
->Il y a différents niveaux de titres : #Titre de niveau 1 - ##Titre de niveau 2 - ###Titre de niveau 3.
+>Il y a différents niveaux de titres : # Titre de niveau 1 - ## Titre de niveau 2 - ### Titre de niveau 3.
 
 ### les listes :
 
