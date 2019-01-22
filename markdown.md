@@ -5,11 +5,11 @@ l'inssertion d'un gif se compose de:
 
 (de la valeur: ! [alt Text])
 
-(de lien: https://technoir.nl/post/44652440963/march2013-thematrix)
+(de lien: https://media.giphy.com/media/zXmbOaTpbY6mA/giphy.gif)
 
 on ajoute les deux et...
 
-![Alt Text](https://technoir.nl/post/44652440963/march2013-thematrix)
+![Alt Text](https://media.giphy.com/media/zXmbOaTpbY6mA/giphy.gif)
 
 Les coloration syntaxique
 =========================
