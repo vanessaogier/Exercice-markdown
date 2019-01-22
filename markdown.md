@@ -81,6 +81,47 @@ exemple : ```![Logo Becode](https://pbs.twimg.com/profile_images/976503221689692
 
  ![Logo Becode|400x400,20%](https://pbs.twimg.com/profile_images/976503221689692161/8s0PJ9xs_400x400.jpg)
 
+Pour inssérer un gif
+====================
+
+l'inssertion d'un gif se compose de:
+
+(de la valeur: ! [alt Text])
+
+(de lien: https://media.giphy.com/media/zXmbOaTpbY6mA/giphy.gif)
+
+on ajoute les deux et...
+
+![Alt Text](https://media.giphy.com/media/zXmbOaTpbY6mA/giphy.gif)
+
+Les coloration syntaxique
+=========================
+
+Une coloration syntaxique se compose de plusieurs partie:
+
+(la valeur: script)
+
+(le type de valeur: type="text/javascript")
+
+(le nom: alert("Julien Cassanra Vannessa");
+
+
+avec coloration
+===============
+
+```javascript
+<script type="text/javascript">
+    alert("Julien Cassanra Vannessa");
+</script>
+```
+sans coloration
+===============
+
+```
+<script type="text/javascript">
+    alert("Julien Cassanra Vannessa");
+</script>
+```
 
 
 
